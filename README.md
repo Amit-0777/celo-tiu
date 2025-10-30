@@ -2,7 +2,7 @@
 
 A beginner-friendly Ethereum lottery dApp smart contract built with Solidity.
 <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/7234a7a9-6ff3-4ed1-ad97-61c2f5231dc3" />
-
+LINK : https://sepolia.celoscan.io/address/0x87fdc441d16a74c9f608960a2528c6b84ac12742
 ## Overview
 
 This is a simple lottery smart contract where users can enter by sending ETH, and the contract owner can randomly select a winner who receives all the accumulated funds.
