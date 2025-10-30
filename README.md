@@ -1,6 +1,7 @@
 # Simple Lottery Smart Contract
 
 A beginner-friendly Ethereum lottery dApp smart contract built with Solidity.
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/7234a7a9-6ff3-4ed1-ad97-61c2f5231dc3" />
 
 ## Overview
 
